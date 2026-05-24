@@ -1,8 +1,8 @@
 class Nona < Formula
   desc "A filename normalizing tool"
   homepage "https://github.com/sanojsubran/nona"
-  url "https://github.com/sanojsubran/nona/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "67567614d48ae5b26e2dec9ef6b9a563c2838aa3f3e004a3ee93a51e54825e38"
+  url "https://github.com/sanojsubran/nona/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "e327dcaafd6fe015f4220a2f5d3fa8d36d078000ecafa32a7f37e262d4b18c7f"
   license "MIT"
 
   depends_on "go" => :build
